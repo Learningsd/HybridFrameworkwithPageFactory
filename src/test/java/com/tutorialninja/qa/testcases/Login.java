@@ -14,7 +14,7 @@ import com.tutorialsninja.qa.pages.LoginPage;
 import com.tutorialsninja.qa.utils.utility;
 import com.tutorialsninjs.qa.base.Base;
 
-//testdata added
+//testdata added more test data 
 
 public class Login extends Base
 {
